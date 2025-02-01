@@ -1,2 +1,2 @@
-# Recepe_Foodie
-React native recipe App that allow users to browse recipes, add their own, and save favorites.
+# Food_Recipes
+This App list food recipes that are browsable.
